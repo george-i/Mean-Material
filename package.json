@@ -1,0 +1,29 @@
+{
+  "name": "angular-lineman-startapp",
+  "title": "Start app",
+  "description": "Advanced web development toolkit based on Lineman JS",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "George Ilie",
+    "company": "2hats.net"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "jasmine-given": "~2.1.0",
+    "lineman": ">= 0.28.0",
+    "lineman-angular": ">= 0.2.0",
+    "lineman-bower": "0.0.3",
+    "sqlite3": "~2.2.0",
+    "protractor": "^0.23.1"
+  },
+  "scripts": {
+    "start": "lineman run",
+    "test": "lineman spec-ci"
+  },
+  "dependencies": {
+    "socket.io": "^1.1.0",
+    "mongoose": "^4.3.4",
+    "colors": "^0.6.2"
+  }
+}

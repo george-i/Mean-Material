@@ -1,0 +1,42 @@
+{
+  "name": "angular-lineman-startapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "angular": "~1.5.0",
+    "underscore": "~1.6.0",
+    "angular-resource": "~1.2.15",
+    "angular-route": "~1.2.15",
+    "angular-sanitize": "~1.2.15",
+    "angular-ui-router": "~0.2.8",
+    "angular-material": "~1.0.5"
+  },
+  "homepage": "https://github.com/george-i/angular-lineman-startapp",
+  "authors": [
+    "George Ilie <george.ilie@2hats.net>"
+  ],
+  "description": "Advanced web development toolkit based on Lineman JS",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "angularjs",
+    "lineman",
+    "nodejs",
+    "socket.io",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/vendor/bower",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "angular": "~1.5.0"
+  }
+}

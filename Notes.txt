@@ -1,0 +1,3 @@
+Start mongodb:
+cd C:\mongodb\
+mongod --dbpath C:\mongodb\data\db\
