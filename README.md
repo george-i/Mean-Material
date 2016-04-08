@@ -38,9 +38,8 @@ Lineman includes <b>Grunt</b>, <b>Jasmine</b> and also runs a local server for d
 - <a href="http://bower.io/">Bower</a> - for package management
 - <a href="https://angularjs.org/">AngularJS</a> - you know, the framework :)
 - <a href="https://github.com/angular-ui/ui-router">AngularUI Router</a> - the coolest routing solution for AngularJS
+- <a href="https://material.angularjs.org">Angular Material</a>
 - <a href="http://jquery.com/">jQuery</a>
-- <a href="http://getbootstrap.com/">Twitter Bootstrap</a>
-- <a href="http://fontawesome.io/">Font Awesome</a>
 
 
 Backend
